@@ -1,0 +1,7 @@
+# BEGIN XML-SITEMAP-PLUGIN
+User-agent: *
+Disallow:
+
+Sitemap: https://jinymsmerem.netlify.app/sitemap.xml
+
+# END XML-SITEMAP-PLUGIN
